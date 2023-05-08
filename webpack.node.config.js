@@ -12,11 +12,11 @@ module.exports.resolve = {
 };
 
 module.exports.externals = [
-    "get-pixels",
-    "gl-matrix",
-    "lodash",
-    "ndarray",
-    "ndarray-linear-interpolate"
+  "get-pixels-graphite",
+  "gl-matrix",
+  "lodash",
+  "ndarray",
+  "ndarray-linear-interpolate",
 ];
 module.exports.output.libraryTarget = "umd";
 module.exports.output.library = "Quagga";
