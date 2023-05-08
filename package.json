@@ -1,6 +1,6 @@
 {
   "name": "quagga-graphite",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "description": "An advanced barcode-scanner written in JavaScript",
   "main": "lib/quagga.js",
   "typings": "type-definitions/quagga.d.ts",
