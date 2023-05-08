@@ -12,6 +12,12 @@ quaggaJS
 - [Tips & Tricks](#tipsandtricks)
 - [Sponsors](#sponsors)
 
+
+## NOTE: Version is rebuilt to remove security issues
+
+* Node support has been removed since it was removed from get-pixels
+* This is a temporary measure as we look to replace this library
+
 ## What is QuaggaJS?
 
 QuaggaJS is a barcode-scanner entirely written in JavaScript supporting real-

@@ -1,11 +1,10 @@
 {
-  "name": "quagga",
-  "version": "0.12.1",
+  "name": "quagga-graphite",
+  "version": "0.12.2",
   "description": "An advanced barcode-scanner written in JavaScript",
   "main": "lib/quagga.js",
   "typings": "type-definitions/quagga.d.ts",
   "browser": "dist/quagga.min.js",
-  "typings": "type-definitions/quagga.d.ts",
   "devDependencies": {
     "async": "^1.4.2",
     "babel-cli": "^6.5.1",
@@ -59,7 +58,6 @@
     "karma-webpack": "^1.8.1",
     "lolex": "^1.4.0",
     "mocha": "^2.3.2",
-    "phantomjs": "^1.9.18",
     "sinon": "^1.17.7",
     "sinon-chai": "^2.8.0",
     "webpack": "^2.2.1",
@@ -104,7 +102,7 @@
     "node": ">= 4.0"
   },
   "dependencies": {
-    "get-pixels": "^3.2.3",
+    "get-pixels-graphite": "4.0.0",
     "gl-mat2": "^1.0.0",
     "gl-vec2": "^1.0.0",
     "gl-vec3": "^1.0.3",
